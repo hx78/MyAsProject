@@ -1,0 +1,1 @@
+include ':app', ':myaar', ':myjar', ':app2'
