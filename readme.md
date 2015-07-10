@@ -1,11 +1,11 @@
 
-1¡¢appÊÇÒ»¸öapplication, ÒıÓÃ±¾µØµÄjar¡¢aar¡¢so, Ìá¹©¶àÇşµÀ·¢²¼
-1.1 µ¥Ôª²âÊÔ£¬ÔÚterminalÖĞÊäÈëgradlew :app:connectedCheck
+1ã€appæ˜¯ä¸€ä¸ªapplication, å¼•ç”¨æœ¬åœ°çš„jarã€aarã€so, æä¾›å¤šæ¸ é“å‘å¸ƒ
+1.1 å•å…ƒæµ‹è¯•ï¼Œåœ¨terminalä¸­è¾“å…¥gradlew :app:connectedCheck
 
-2¡¢app2ÊÇÒ»¸öapplication, ÒıÓÃË½·şµÄjar¡¢aar
+2ã€app2æ˜¯ä¸€ä¸ªapplication, å¼•ç”¨ç§æœçš„jarã€aar
 
-3¡¢myaarÊÇÒ»¸öandroid library£¬make¿ÉÒÔÉú³ÉaarºÍjar, ¿É·¢²¼µ½Ë½·ş
-3.1 µ¥Ôª²âÊÔ£¬ÔÚterminalÖĞÊäÈëgradlew :myaar:connectedCheck
+3ã€myaaræ˜¯ä¸€ä¸ªandroid libraryï¼Œmakeå¯ä»¥ç”Ÿæˆaarå’Œjar, å¯å‘å¸ƒåˆ°ç§æœ
+3.1 å•å…ƒæµ‹è¯•ï¼Œåœ¨terminalä¸­è¾“å…¥gradlew :myaar:connectedCheck
 
-4¡¢myjarÊÇÒ»¸öjava library£¬¿É·¢µ½Ë½·ş£¬·¢²¼Ê±²Å»áÉú³Éjar  
-4.1 µ¥Ôª²âÊÔ£¬ÔÚterminalÖĞÊäÈëgradlew :myjar:test
+4ã€myjaræ˜¯ä¸€ä¸ªjava libraryï¼Œå¯å‘åˆ°ç§æœï¼Œå‘å¸ƒæ—¶æ‰ä¼šç”Ÿæˆjar
+4.1 å•å…ƒæµ‹è¯•ï¼Œåœ¨terminalä¸­è¾“å…¥gradlew :myjar:test
