@@ -12,7 +12,7 @@ android {
         versionName "1.0"
 
         //默认为官方版本
-        manifestPlaceholders = [channel_param: "official"]
+        manifestPlaceholders = [UMENG_CHANNEL_VALUE: "official"]
     }
 
     buildTypes {

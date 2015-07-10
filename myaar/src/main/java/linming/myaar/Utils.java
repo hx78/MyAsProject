@@ -8,4 +8,8 @@ public class Utils {
     public static String getString() {
         return "I'm a aar";
     }
+
+    public static int add(int a, int b) {
+        return a + b;
+    }
 }

@@ -7,4 +7,8 @@ public class MyUtils {
     public static String getString() {
         return "I'm a jar";
     }
+
+    public static int add(int a, int b) {
+        return a + b;
+    }
 }
